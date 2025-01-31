@@ -1,8 +1,6 @@
 package org.leet;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.pom.LoginPage;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
